@@ -1,6 +1,6 @@
 # scraping
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/o-date/scraping/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kgarstki/scraping/master)
 
 From the Home page for this binder, select `new` -> `RStudio`. Then open the `Extracting Data from PDFs using Tabulizer.R` file. 
 
