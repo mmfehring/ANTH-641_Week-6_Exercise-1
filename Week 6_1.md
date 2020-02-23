@@ -21,5 +21,5 @@ _There are two way to use Tabula to extract data tables from a pdf, one is to do
 ![alt text](/Images/Picture4.png)
 
 7.  You will see a preview of the data table that was extracted from the PDF. How does it look to you – do you see any differences or errors from the original table? One minor thing to note is that the sites with names on two lines (e.g. Cherryville Site 12, Co. Kildare (01E0955)) are separated into two rows – this isn’t ideal but it won’t affect our data, we can adjust that later. 
-![alt test](?Images/Picture5.png)
+![alt test](/Images/Picture5.png)
 
