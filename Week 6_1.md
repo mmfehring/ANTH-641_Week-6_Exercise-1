@@ -44,4 +44,12 @@ _We’re going to now learn how to use essentially the same tool but in within a
 4.  When your new Juptyer notebook opens (it may take a bit to launch), go to the “New” dropdown menu in the top right and choose RStudio. 
 
 __A note about RStudio.__ _ RStudio is an integrated development environment for the programming language R (which you’ve already been introduced to). A benefit to this platform is that it integrates the code editor console (bottom left in the image), R scripts that combine the R programming language and other instruction or tools (top left in the image), a workspace (top right), and a viewer/file folder (bottom right). If you have ever just used a standard R console or even run R in a Jupyter notebook, you’ll notice some benefits of this environment. In our case we’ll be running the server version, which lets us use the program from anywhere with internet access. But you could also run it on your local machine._
+![alt text](/Images/Picture7.png)
+
+5.  When you open the new RStudio you’ll only see three windows. Click on the file “ANTH 641 Week 6 Extracting Data from PDFs” This is an R script that will provide you with instructions on how to use Tabulizer. 
+![alt text]((/Images/Picture8.png)
+
+6.	You’ll see R code interspersed with instructions. Text that follows the “#” is just instruction that will tell you what to do. You’ll input the code that you see into the R console in the bottom left (you can even copy from the R script and paste into the R console!). 
+7.	Follow the instructions on the R script. When you get your output table, remember to export it and save it. When you get the bar plot, save that.  
+
 
