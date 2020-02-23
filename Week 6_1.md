@@ -54,7 +54,7 @@ __A note about RStudio.__ _ RStudio is an integrated development environment for
 
 ## Extracting data from a graph or plot
 
-_We’ll now try to extract data from a plot or graph from an image, taken from a published work. [Metadigitise](https://cran.r-project.org/web/packages/metaDigitise/vignettes/metaDigitise.html) is an R package that provides functions for extracting raw data and summary statistics from figures in primary research papers. This exercise was modeled off of the binder created for [ODAT 2.7](https://o-date.github.io/draft/book/scraping-data.html).
+_We’ll now try to extract data from a plot or graph from an image, taken from a published work. [Metadigitise](https://cran.r-project.org/web/packages/metaDigitise/vignettes/metaDigitise.html) is an R package that provides functions for extracting raw data and summary statistics from figures in primary research papers. This exercise was modeled off of the binder created for [ODAT 2.7](https://o-date.github.io/draft/book/scraping-data.html)._
 
-Metadigitise uses images of plots, so you first have to take a screenshot of the desired data visualization. For this exercise there are already some figures for you to use. Just like the Tabulizer exercise, you will use Rstudio. Open a new Rstudio in your Scraping binder. Choose __ANTH 641 Week 6 Using MetaDigitise__ from the file folder in the bottom right of the screen and follow the directions for the exercise._ 
+_Metadigitise uses images of plots, so you first have to take a screenshot of the desired data visualization. For this exercise there are already some figures for you to use. Just like the Tabulizer exercise, you will use Rstudio. Open a new Rstudio in your Scraping binder. Choose __ANTH 641 Week 6 Using MetaDigitise__ from the file folder in the bottom right of the screen and follow the directions for the exercise._ 
 
