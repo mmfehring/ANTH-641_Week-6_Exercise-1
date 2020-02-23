@@ -40,4 +40,8 @@ _We’re going to now learn how to use essentially the same tool but in within a
 1.  Fork [this](https://github.com/kgarstki/ANTH-641_Week-6_Exercise-1) GitHub repo. Copy the URL of your new repo and go to mybinder.org. Paste the url into the space for 'github repository.' Make a note of the link for your binder.
 2.  Then, edit the README.md file in your repo to change the mybinder URL to your GitHub username. 
 ![alt text](/Images/Image13.PNG)
+3.  Commit your change. Then whenever you view your repo you can click on the pink 'launch binder' button and you will get a Juptyer notebook that is connected to your GitHub repo.
+4.  When your new Juptyer notebook opens (it may take a bit to launch), go to the “New” dropdown menu in the top right and choose RStudio. 
+
+__A note about RStudio.__ _. RStudio is an integrated development environment for the programming language R (which you’ve already been introduced to). A benefit to this platform is that it integrates the code editor console (bottom left in the image), R scripts that combine the R programming language and other instruction or tools (top left in the image), a workspace (top right), and a viewer/file folder (bottom right). If you have ever just used a standard R console or even run R in a Jupyter notebook, you’ll notice some benefits of this environment. In our case we’ll be running the server version, which lets us use the program from anywhere with internet access. But you could also run it on your local machine._
 
