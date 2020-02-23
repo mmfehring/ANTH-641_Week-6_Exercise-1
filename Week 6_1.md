@@ -47,7 +47,7 @@ __A note about RStudio.__ _ RStudio is an integrated development environment for
 ![alt text](/Images/Picture7.png)
 
 5.  When you open the new RStudio you’ll only see three windows. Click on the file “ANTH 641 Week 6 Extracting Data from PDFs” This is an R script that will provide you with instructions on how to use Tabulizer. 
-![alt text]((/Images/Picture8.png)
+![alt text](/Images/Picture8.png)
 
 6.	You’ll see R code interspersed with instructions. Text that follows the “#” is just instruction that will tell you what to do. You’ll input the code that you see into the R console in the bottom left (you can even copy from the R script and paste into the R console!). 
 7.	Follow the instructions on the R script. When you get your output table, remember to export it and save it. When you get the bar plot, save that.  
