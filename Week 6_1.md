@@ -37,4 +37,5 @@ _We’ll also use a tool to extract data from published plots or graphs called M
 
 _We’re going to now learn how to use essentially the same tool but in within an R environment, so that we can bring the data directly into R and begin using it. This is called tabulizer.r (learn about the package [here](https://cran.r-project.org/web/packages/tabulizer/vignettes/tabulizer.html)). This exercise was modeled off of the binder created for [ODAT 2.7](https://o-date.github.io/draft/book/scraping-data.html)._
 
-1.  Fork this GitHub repo. Copy the URL of your new repo and go to mybinder.org. Paste the url into the space for 'github repository.' Make a note of the link for your binder.
+1.  Fork [this](https://github.com/kgarstki/ANTH-641_Week-6_Exercise-1) GitHub repo. Copy the URL of your new repo and go to mybinder.org. Paste the url into the space for 'github repository.' Make a note of the link for your binder.
+2.  Then, edit the README.md file in your repo to change the mybinder URL to your GitHub username. 
