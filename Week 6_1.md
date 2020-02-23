@@ -39,3 +39,5 @@ _We’re going to now learn how to use essentially the same tool but in within a
 
 1.  Fork [this](https://github.com/kgarstki/ANTH-641_Week-6_Exercise-1) GitHub repo. Copy the URL of your new repo and go to mybinder.org. Paste the url into the space for 'github repository.' Make a note of the link for your binder.
 2.  Then, edit the README.md file in your repo to change the mybinder URL to your GitHub username. 
+![alt text](/Images/Image13.PNG)
+
