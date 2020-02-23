@@ -4,6 +4,8 @@ _There are often data presented in peer-reviewed articles, monographs, and excav
 
 _There are two way to use Tabula to extract data tables from a pdf, one is to download the software onto your local machine and the other is to use it through R. We’ll try using both in this exercise._
 
+_We’ll also use a tool to extract data from published plots or graphs called Metadigitise._
+
 ## Using tabula to extract data from PDFs
 
 1.	Open the tabula on your computer. Ask your instructor if it isn’t available on your computer. If it is not available, you can download it from [here](tabula.technology).
