@@ -1,9 +1,9 @@
-# scraping
+# Readme
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kgarstki/scraping/master)
 
-From the Home page for this binder, select `new` -> `RStudio`. Then open the `Extracting Data from PDFs using Tabulizer.R` file. 
+This repo holds a few different tools for extracting data. Some are taken from the o-date/scraping GitHub repo. Make sure to fork this repo and set up your own binder to work with the notebooks. 
 
-Put your cursor at the first line in the script (top left window); run one line at a time.
+Check out the ANTH-641_Week-6_Exercise-1 for the instructions. 
 
 default-jre in apt.txt gives me java 10, but some of what I'm reading suggests java 8. Trying this: https://tecadmin.net/install-oracle-java-8-ubuntu-via-ppa/
