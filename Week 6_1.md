@@ -8,3 +8,4 @@ _There are two way to use Tabula to extract data tables from a pdf, one is to do
 
 1.	Open the tabula on your computer. Ask your instructor if it isn’t available on your computer. If it is not available, you can download it from [here](tabula.technology).
 2.  You will have the downloaded PDF posted in this repo titled Garstki_2019_Social Production of Iron. In the tabula browser, browse to where you’ve download the PDF and import it into the software. You will see the PDF displayed in the software. 
+![alt text](/Images/Picture1.png)
