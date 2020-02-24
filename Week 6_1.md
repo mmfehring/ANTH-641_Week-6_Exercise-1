@@ -28,7 +28,7 @@ _We’ll also use a tool to extract data from published plots or graphs called M
 8.  We can now export the data as a .csv file. Title it Tabula_export_Garstki_Tab1. Open it on your computer and investigate it – does everything seem in order? Compare it to the original table in the PDF. 
 9.	Upload the csv file into your ANTH 641 Week 6 GitHub repo. 
 10.	Let’s try one more. Go back to the main tabula page and upload the file _Frie-2018-Oxford_Journal_of_Archaeology._ Scroll down to page 33 and highlight Table 2. 
-![alt text](/Images/Pictures6.png)
+![alt text](/Images/Picture6.png)
 
 11.	 Click on the __Preview & Export Extracted Data__ green button. Look over the previewed data table and compare it to the original in the pdf – do you see any issues? What types of data tables might this software have a problem with? Export this table as Tabula_export_Frie_Tab2.csv and upload it to the GitHub repo. 
 12.	 Now try extracting a table from __one of your own__ PDFs. Go through the process you’ve just learned, export it as tabula_AUTHORSNAME_TAB#.csv, and upload it to your repo. 
